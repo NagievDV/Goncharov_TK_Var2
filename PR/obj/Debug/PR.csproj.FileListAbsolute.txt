@@ -1,0 +1,7 @@
+C:\Users\217042\Desktop\PR\PR\bin\Debug\PR.exe.config
+C:\Users\217042\Desktop\PR\PR\bin\Debug\PR.exe
+C:\Users\217042\Desktop\PR\PR\bin\Debug\PR.pdb
+C:\Users\217042\Desktop\PR\PR\obj\Debug\PR.csproj.AssemblyReference.cache
+C:\Users\217042\Desktop\PR\PR\obj\Debug\PR.csproj.CoreCompileInputs.cache
+C:\Users\217042\Desktop\PR\PR\obj\Debug\PR.exe
+C:\Users\217042\Desktop\PR\PR\obj\Debug\PR.pdb
